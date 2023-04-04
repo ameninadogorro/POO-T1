@@ -8,5 +8,5 @@
    <li>
    <a href="https://github.com/ameninadogorro" target="_blank" rel="external">Ana Raiany</a>
    <li>
-   <a href="https://github.com/oestrageiro" target="_blank" rel="external">Mateus</a>
+   <a href="https://github.com/oestrangeiro" target="_blank" rel="external">Mateus</a>
    </li>
